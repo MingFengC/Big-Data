@@ -1,7 +1,3 @@
-
-// Matric Number: A0216079B
-// Name: Chua Ming Feng
-// TopKCommonWords.java
 import java.io.IOException;
 import java.util.StringTokenizer;
 import java.util.HashMap;
